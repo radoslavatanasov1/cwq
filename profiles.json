@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "api_key": "YOUR_API_KEY_1",
+        "proxy": "http://proxy1.example.com:8080",
+        "proxy_username": "your_username_1",
+        "proxy_password": "your_password_1"
+    },
+    {
+        "id": 1,
+        "api_key": "YOUR_API_KEY_2",
+        "proxy": "http://proxy2.example.com:8080",
+        "proxy_username": "your_username_2",
+        "proxy_password": "your_password_2"
+    },
+    {
+        "id": 2,
+        "api_key": "YOUR_API_KEY_3",
+        "proxy": "http://proxy3.example.com:8080",
+        "proxy_username": "your_username_3",
+        "proxy_password": "your_password_3"
+    },
+    {
+        "id": 3,
+        "api_key": "YOUR_API_KEY_4",
+        "proxy": "http://proxy4.example.com:8080",
+        "proxy_username": "your_username_4",
+        "proxy_password": "your_password_4"
+    }
+]
